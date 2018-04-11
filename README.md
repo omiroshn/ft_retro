@@ -20,4 +20,4 @@ q - exit
 Arrows - moving
 Space - shoot
 ```
-<img align="left"  src="https://github.com/omiroshn/ft_retro/blob/master/img/img.png" width="60%" />
+<img align="center"  src="https://github.com/omiroshn/ft_retro/blob/master/img/img.png" width="100%" />
